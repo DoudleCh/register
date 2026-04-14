@@ -1,9 +1,11 @@
 {
   "owner": {
-    "username": "DoudleCh"
+    "username": "DoubleCh",
     "email": "k.chizh@zohomail.eu"
   },
-  "records": {
-    "A": ["185.239.141.164"]
+  "record": {
+    "A": [
+      "185.239.141.164"
+    ]
   }
 }
